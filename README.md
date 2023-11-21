@@ -5,7 +5,7 @@ I'm a data analyst with a knack for solving complex problems using data. I have 
 
 ## My Skill Set
 - **Languages**: Python (for data analysis, and machine learning), JavaScript (for data visualization and web integration)
-- **Data Analysis Tools**: Pandas, NumPy, Jupyter Notebooks, Google Colab
+- **Data Analysis Tools**: Pandas, NumPy, Matplotlib, Jupyter Notebooks, Google Colab
 - **Machine Learning**: Basic understanding of machine learning algorithms, TensorFlow or PyTorch 
 - **Data Visualization**: Matplotlib, Seaborn, D3.js 
 - **Databases**: SQL 
